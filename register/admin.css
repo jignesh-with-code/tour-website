@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* input text space code css */
+#space{
+    padding: 20px;
+}
+/* end space code css */
+
+.center{
+  
+    
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 40%;
+    left: 42%;
+    color: black;
+    
+}
+button{
+    margin-top: 10px;
+    width: 220px;
+    height: 40px;
+    background-color:skyblue;
+    text-align: center;
+    cursor: pointer;
+
+}
+/* h3{
+    text-transform: uppercase;
+    position: absolute;
+    top: 10%;
+    left: 45%;
+    color: black;
+ } */
+#form-div-center{
+    position: absolute;
+    top: 80%;
+
+}
+body{
+    height: 1500px;
+    width: auto;
+}
